@@ -474,8 +474,16 @@ img {
   margin-left: 0.5rem;
 }
 
+.works__lang--html {
+  background: #f53a3a;
+}
+
 .works__lang--js {
   background: #f5d13a;
+}
+
+.works__lang--react {
+  background: #3af2f5;
 }
 
 .works__lang--wordpress {
